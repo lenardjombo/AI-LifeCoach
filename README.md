@@ -1,1 +1,2 @@
-# AI-LifeCoach
+**AI-LifeCoach**
+Add actual OpenAi API key
